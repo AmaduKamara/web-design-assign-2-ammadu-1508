@@ -1,5 +1,5 @@
 body {
-  background-color: peachpuff;
+  background-color: white;
 }
 
 header {
@@ -22,4 +22,11 @@ ul {
 
 ul li a {
   color: #fff;
+}
+
+.hero {
+  width: 70%;
+  padding: 50px 150px;
+  background-color: teal;
+  margin: 50px auto;
 }
